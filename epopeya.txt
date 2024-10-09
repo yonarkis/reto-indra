@@ -1,0 +1,75 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+madge --circular /c/RIMAC/proyectos/B2B/api-canal-web-brokers-salud-impl-v1
+
+-- BALANCE 
+Presupuesto Octubre
+
+3000 -> disponible
+
+1100 -> alquiler
+210 -> internet
+30 -> bitel
+
+800 -> mami
+60 -> mion
+
+
+300 -> otros
+
+
+
+Contrato Estándar
+Contrato Estándar con Padres
+
+Contrato Estándar sin Padres
+Contrato Estándar - Sin Oncologia
+
+Contrato Estándar - Potestativo
+Contrato Estándar - Potestativo con Padres
+
+Contrato Estándar - Potestativo sin Padres
+Contrato Estándar - Potestativo - Sin Oncologia
+
+
+-- DANIEL HERVIAS -> aprobado
+
+
+
+- Saul Huanay
+
+Revisión de CV.
+Validación de la categoría de ser senior.
+Pautas para que realice un buen reto técnico.
+Comentarios para su entrevista técnica.
+
+métodologias agiles

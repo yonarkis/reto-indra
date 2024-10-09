@@ -1,0 +1,245 @@
+-- lista de apis
+
+https://miro.com/app/board/uXjVKLR53ck=/?userEmail=xt7836@rimac.com.pe&track=true&utm_source=notification&utm_medium=email&utm_campaign=add-to-team-and-board&utm_content=go-to-board
+
+
+Rimac-Seguros/api-canal-web-brokers-salud-impl-v1 at feature/TBVNS-159 (
+
+npm install rimac/core-salud@latest
+
+
+github.com)
+
+asignación suscriptor
+asignación comercial
+
+[TBVNS-477] feat: se agrega registro de carga de documentos:
+
+TBVNS-218
+
+TBVNS-478}
+
+TBVNS-479 -> ejecutivo comercial
+
+[TBVNS-547] avances
+TBVNS-547-test-emision avances
+
+Cuenta de Estratégicos 1: Mario Polastri 40024454 mpolastri@rimac.com.pe -> 10
+Cuenta de Estratégicos 2: Luis Valdez luis.valdez@rimac.com.pe -> 11
+Cuenta de Estratégicos 3: Cristobal Espejo Cabrera -> 9
+Cuenta de Masivos: Pamela Cerdena Gonzales xt7928@rimac.com.pe -> 12 / Rosa Ramon Alvarado xt7923@rimac.com.pe -> 13
+
+
+aceptar cotización
+listar solicitudes
+listar estados
+pruebas de emisión
+regularización de coverage en repositorios de canal y negocio
+creación de pruebas unitarias en repositorios de canal y negocio
+
+-- RESURGIMIENTO
+
+mi situacion laboral
+
+- recuperar mi productividad
+- aprender nuevas tecnologias
+- mejorarme profesionalmente para poder optar por mejores salarios
+
+- Cuida de ti mismo: No descuides tu bienestar físico y emocional mientras trabajas en hacer cambios en tu vida. Asegúrate de descansar lo suficiente, comer bien, hacer ejercicio y practicar actividades que te traigan alegría y relajación.
+
+--
+
+mi situación financiera
+-  di un paso importante, estoy decidido a dejar de apostar 
+-  que el dinero me alcance
+-  dejar de apostar o al menos hacerlo de forma controlada
+-  sentir cierta libertad
+
+mi situación amorosa
+
+- definidos mis sentimientos por Gaby, al final he decidido terminar mi relación con ella. Aunque no descarto que intente volver con ella si estamos libres
+- elimine a Cariangel, decidí terminar con ella después que ella intento volver conmigo. Pero en la primera semana me siguió tratando muy distante asi que decidí eliminarla
+- profundizo un poco con Josselyn, sin embargo no me termino de animar con ella. Creo que lo mejor es mantenerla solo como amiga
+
+Indra23yy***
+
+
+
+
+-------
+800 -> remesas
+240 -> teléfono claro (78), teléfono bitel (31), Netflix (44), Spotify (20), combo star (65)
+700 -> comida
+540 -> alquiler 
+210 -> internet
+
+-- CUENTAS --
+
+Nayipzy Ynojosa 
+CIV: 20802612
+Banco Provincial 
+Cta Corriente: 0108-0036-6201-0017-6250
+
+--
+
+Carmen Garcia
+CIV: 6838475
+Banco de venezuela
+Cuenta de Ahorro:0102-0193-48-01-02274538
+
+--
+
+Windy Garcia	
+CIV: 16910631
+Banco de Venezuela
+Cuenta corriente: 0102-0300-78-0000331245
+
+-- CUENTAS --
+
+-- AWS
+
+xt7836
+zRG0aY!UK5_#8D
+
+UE2COMTESTLMBCANALSALUDTS003
+
+
+
+
+En comun.SOLICITUD -> IDECONTRATANTE se debe guardar el idetercero
+Cambiar tabla brokers a segmento_brokers
+cambiar nombre de tabla COTIZACION a PROPUESTA_COTIZACION
+Eliminar tabla VN_USUARIO
+Restringir a que se registre contratante solo si la propuesta está en estado ESTSAL004 (Anulado)
+cambiar segmento_rol_usuario a ejecutivo_rol_usuario
+bitacora de cambio de estados de las solicitudes
+
+
+
+
+para la solicitud de cotización
+
+
+
+
+
+
+
+UE2APITESTNETAPISALUDV1 -> apigateway -> salud
+
+https://apidev.rimac.com/api-webbrokers-salud/V1/emisiones/subirDocumentoEcm
+
+https://apidev.rimac.com/api-webbrokers-salud/V1/emisiones/consultarTerceroBdu
+
+https://apitest.rimac.com/api-webbrokers-salud/V1/emisiones/subirDocumentoEcm
+
+ http://localhost:3000/DESA/V1/emisiones/notificacion  
+
+
+https://1h0e2ne4uj.execute-api.us-east-2.amazonaws.com/test/V1/emisiones/notificacion
+
+-- BINANCE
+
+020424 -> PIN
+
+-- DAVIDOCS
+
+13092023 
+UffitO__0217
+UFfito__0217
+
+--
+
+7900 -> 403
+11500 -> 1063
+4500 -> 415
+2614 -> 131
+
+23900 -> total
+26300 -> entradas extraordinarias
+-5150
+-7900
+
+
+{
+ "ID": "4f60569b-4789-4ab6-8228-66e83874d3bd",
+ "documentConfigId": "1",
+ "alias": "Siniestro",
+ "campoIdentificador": "tipoDocumento",
+ "camposRequeridos": "metadata",
+ "descripcion": "Almacenar los documentos de la solicitudes de cotizaciones en el proceso de solicitudes de EPS Personalizados",
+ "flujoConfig": {
+  "tarea_creacion": "true",
+  "tarea_firmado": "false",
+  "tarea_notificacion": "false",
+  "tarea_ocr": "true",
+  "tarea_password": "false",
+  "tarea_radicado": "false",
+  "tarea_registro": "true",
+  "tarea_respuesta": "false"
+ },
+ "lineaNegocio": "salud",
+ "macrocapacidad": "producto",
+ "nombreArchivoTipo": "uuid",
+ "nombreGenerado": "true",
+ "output": {
+  "bucket": "ue1stgtestas3ecm001",
+  "destination": "storage/salud/eps_personalizado/cotizacion/",
+  "region": "us-east-2"
+ },
+ "proceso": "gestion-productos",
+ "producto": "EPS Personalizado",
+ "responsable": "Juan Rojas",
+ "tipoDocumento": "cotizacion"
+}
+
+--
+
+|| Tareas generación de contratos ||
+  
+- Jasper de contratos
+
+CONTRATOS EPS REGULAR
+
+-> pagina 1 dinámica
+-> pagina 2 dinámica
+-> pagina 3 a pagina 62 estatica
+-> pagina 64 dinámica
+-> conjunto de paginas dinámicas (beneficios)
+
+---> agregar subreportes para los beneficios
+
+
+
+- Completar configuraciones de ECM
+- Api de integración (búsqueda de información de contratos + llamado a ECM)
+- Pruebas de Generación	
+
+--
+Tiempo máximo de una Tarea: 2 días 
+ 
+Estimación original de las subTareas
+ 
+Daily con Tablero 2. Por SubTareas
+--
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
